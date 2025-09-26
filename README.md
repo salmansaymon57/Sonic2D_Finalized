@@ -40,9 +40,9 @@ A 2D platformer game inspired by Sonic, developed in C++ using custom graphics a
 
 ## Gameplay Screenshots
 
-![Homepage Screenshot](/Screenshot 2025-09-26 065334.png)
-![Gameplay Screenshot](/Screenshot 2025-09-26 065417.png)
-![Score Screenshot](/Screenshot 2025-09-26 065432.png)
+![Homepage Screenshot](https://github.com/salmansaymon57/Sonic2D_Finalized/blob/5fff7dc5d239e1515dedf801bc30019f77a9bbfb/Screenshot%202025-09-26%20065334.png)
+![Gameplay Screenshot](https://github.com/salmansaymon57/Sonic2D_Finalized/blob/5fff7dc5d239e1515dedf801bc30019f77a9bbfb/Screenshot%202025-09-26%20065417.png)
+![Score Screenshot](https://github.com/salmansaymon57/Sonic2D_Finalized/blob/5fff7dc5d239e1515dedf801bc30019f77a9bbfb/Screenshot%202025-09-26%20065432.png)
 
 ## File Structure
 
