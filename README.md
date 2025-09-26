@@ -38,6 +38,12 @@ A 2D platformer game inspired by Sonic, developed in C++ using custom graphics a
     - `END`: Exit game
     - `HOME`: Return to main menu
 
+## Gameplay Screenshots
+
+![Live App Screenshot](https://drive.google.com/file/d/1JegTHNrRdqh-GhPYxmzJiCsqmDQ6lnmj/view?usp=sharing)
+![Live App Screenshot](https://drive.google.com/file/d/1EsFY6Ok-T5h0_DLa5_TxEC785u38A69B/view?usp=sharing)
+![Live App Screenshot](https://drive.google.com/file/d/1-m-yYpEWG7eCQDP5znVLx9uELHUJA2bx/view?usp=sharing)
+
 ## File Structure
 
 - `iMain.cpp`: Main game loop, state management, input handling.
